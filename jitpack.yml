@@ -1,3 +1,0 @@
-install:
-   - echo "Running a custom install command"
-   - ./mvnw clean install -DskipTests -Djarsigner.skip=true
